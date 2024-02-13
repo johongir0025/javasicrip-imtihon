@@ -403,10 +403,6 @@ font-size: 70px;
 .REGISTER:hover{
   background: white;
   color: black;
-  box-shadow: 0 0 5px black,
-  0 0 10px black, 0 0 15px black, 0 0 20px black,
-  0 0 25px black, 0 0 30px black, 0 0 35px black,
-  0 0 40px black, 0 0 45px black, 0 0 50px black;
   transform: scale(1.1);
   transition: all 0.5s;
 
